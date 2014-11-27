@@ -1,0 +1,400 @@
+/* STORY: STORMTROOPERS */
+#storytelling-body #stormtroopers .sap-slide-column-l,
+#storytelling-body #stormtroopers .sap-slide-column-r {width:50%; height:100%; float:left; position:relative; overflow:hidden; z-index:1;}
+#storytelling-body #stormtroopers .subtitle {z-index:10;}
+#storytelling-body #stormtroopers .subtitle .subtitle-content {width:96%; margin-left:2%;}
+
+/* Slide 01 */ 
+#storytelling-body #stormtroopers #Slide01 video.background-video {z-index:1;}
+#storytelling-body #stormtroopers #Slide01 .slide01-wrapper {z-index:2; position:absolute; top:45%; left:56%; visibility:hidden;}
+#storytelling-body #stormtroopers #Slide01 .slide01-posted-by {width:80%; margin-bottom:1%;  cursor:pointer;}
+#storytelling-body #stormtroopers #Slide01 .slide01-posted-by img {width:100%;}
+#storytelling-body #stormtroopers #Slide01 .slide01-url {z-index:2; position:absolute; left:-12%; -webkit-transform:rotate(2.2deg); -moz-transform:rotate(2.2deg);}
+#storytelling-body #stormtroopers #Slide01 .slide01-url a {color:#CDC2B2; line-height:100%; font-style:italic; opacity:0.4; cursor:pointer; }
+#storytelling-body #stormtroopers #Slide01 .slide01-url a:hover {opacity:1;}
+#storytelling-body #stormtroopers #Slide01 .slide01-next-slide {position:absolute; right:13%; top:0; z-index:2; width:42%; display:none;}
+#storytelling-body #stormtroopers #Slide01 .slide01-next-slide img {width:100%;}
+#storytelling-body.storytelling-de #stormtroopers #Slide01 .slide01-url {left:2%;}
+
+/* Slide 02 */
+#storytelling-body #stormtroopers #Slide02 video.background-video {z-index:1;}
+#storytelling-body #stormtroopers #Slide02 h1 {position:absolute; z-index:2; top:5%; left:20%; font-family:Helvetica; letter-spacing:-1px;}
+#storytelling-body #stormtroopers #Slide02 .slide02-next-slide {width:34%; position:absolute; z-index:2; bottom:21%; left:49%; display:none;}
+#storytelling-body #stormtroopers #Slide02 .slide02-next-slide img {width:100%;}
+
+/* Slide 03 */
+#storytelling-body #stormtroopers #Slide03 video.background-video {z-index:1;}
+#storytelling-body #stormtroopers #Slide03 .slide03-title {position:absolute; z-index:2; display:none; cursor:pointer;}
+#storytelling-body #stormtroopers #Slide03 .slide03-title img {width:100%;}
+#storytelling-body #stormtroopers #Slide03 #slide03-title1 {width:51%; top:14%; left:17%;}
+#storytelling-body #stormtroopers #Slide03 #slide03-title2 {width:50%; top:12%; left:19%;}
+#storytelling-body #stormtroopers #Slide03 .slide03-dialog {position:absolute; z-index:2; top:62%; display:none; cursor:pointer;}
+#storytelling-body #stormtroopers #Slide03 .slide03-dialog img {width:100%;}
+#storytelling-body #stormtroopers #Slide03 #slide03-dialog1 {width:11%; left:24%;}
+#storytelling-body #stormtroopers #Slide03 #slide03-dialog2 {width:14%; left:63%;}
+#storytelling-body #stormtroopers #Slide03 .slide03-next-slide {position:absolute; z-index:2; top:62%; left:50%; width:34%; display:none;}
+#storytelling-body #stormtroopers #Slide03 .slide03-next-slide img {width:100%;}
+
+/* Slide 04 */
+#storytelling-body #stormtroopers #Slide04 .slide04-title {width:29%; position:absolute; top:15%; left:17%; z-index:15;}
+#storytelling-body #stormtroopers #Slide04 .slide04-title img {width:100%;}
+#storytelling-body #stormtroopers #Slide04 .slide04-title span {display:none;}
+#storytelling-body #stormtroopers #Slide04 .slide04-text {width:18%; position:absolute; top:35%; left:17%; z-index:2;}
+#storytelling-body #stormtroopers #Slide04 .slide04-text p {font-family:arial; padding-bottom:0;}
+#storytelling-body #stormtroopers #Slide04 .slide04-link {text-align:right; margin-bottom:2%;} 
+#storytelling-body #stormtroopers #Slide04 .slide04-link a {color:#CDC2B2; line-height:100%; font-style:italic; opacity:0.4;} 
+#storytelling-body #stormtroopers #Slide04 .slide04-link a:hover {opacity:1;}
+#storytelling-body #stormtroopers #Slide04 .slide04-next-slide {width:34%; position:absolute; z-index:2; top:63%; left:51%;}
+#storytelling-body #stormtroopers #Slide04 .slide04-next-slide img {width:100%;}
+#storytelling-body #stormtroopers #Slide04 section {display:block; /*width:43.6%; percentual in javascript */ top:15.3%; left:39%; position:absolute;}
+#storytelling-body #stormtroopers #Slide04 section article video {display:block;}
+#storytelling-body #stormtroopers #Slide04 .subtitle .subtitle-content {bottom:0; margin-left:0;}
+#storytelling-body #stormtroopers #Slide04 .player-start-button .play-icon .btn-play {width:20%; left:40%; top:34%;}
+
+#storytelling-body.ipad #stormtroopers #Slide04 .small-player-wrapper video {width:443px !important; height:305px !important;}
+#storytelling-body.ipad #stormtroopers #Slide04 .player-start-button .play-icon .poster-video img {width:443px !important; height:305px !important;}
+
+/* Slide: 05 */
+#storytelling-body #stormtroopers #Slide05 .box-media {position:absolute; top:6%; left:32%; width:11%; z-index:2; cursor:pointer;}
+#storytelling-body #stormtroopers #Slide05 .box-media img.bgr-media {width:100%;}
+#storytelling-body #stormtroopers #Slide05 .box-media a.link-media {position:absolute; top:0; left:0; padding:12% 0 0 17%; line-height:100%; color:#12b0d2; text-decoration:none; height:142px; width:83%; z-index:1;}
+#storytelling-body #stormtroopers #Slide05 .box-media a.link-media:hover {text-decoration:underline;}
+#storytelling-body #stormtroopers #Slide05 .not-underline {text-decoration:none;}
+#storytelling-body #stormtroopers #Slide05 .box-media .box-play {position:absolute; top:10%; right:-10%; width:33%; height:28%; background:#12b0d2; -moz-border-radius:5px; -webkit-border-radius:5px; z-index:1;}
+#storytelling-body #stormtroopers #Slide05 .box-media .box-play a.btn-play {padding:20%; display:block;}
+#storytelling-body #stormtroopers #Slide05 .box-media .box-play a.btn-play img {width:100%;}
+#storytelling-body #stormtroopers #Slide05 .box-media .box-play a.btn-play2 {padding:25%; display:block;}
+#storytelling-body #stormtroopers #Slide05 .box-media .box-play a.btn-play2 img {width:100%;}
+#storytelling-body #stormtroopers #Slide05 .box-media .box-play a.btn-pause {padding:25% 30%; display:block;}
+#storytelling-body #stormtroopers #Slide05 .box-media .box-play a.btn-pause img {width:100%;}
+#storytelling-body #stormtroopers #Slide05 .box-media .box-play .box-controler {position:absolute; top:0; left:90%; width:700%; height:100%; background:#12b0d2;}
+#storytelling-body #stormtroopers #Slide05 .box-media .box-play .box-controler .box-controler-corner {position:absolute; top:0; right:-2%; width:14%; height:100%; background:#12b0d2; z-index:1; -moz-border-radius:5px; -webkit-border-radius:5px;}
+#storytelling-body #stormtroopers #Slide05 .box-media .box-play .box-controler .progress_content {border:2px solid #fff; position:relative; width:82%; height:15%; margin:5.2% 0 0 1%;}
+#storytelling-body #stormtroopers #Slide05 .box-media .box-play .box-controler .progress_content_time {height:100%; position:absolute; top:0; left:0; background:#12B0D2; z-index:12;}
+#storytelling-body #stormtroopers #Slide05 .box-media .box-play .box-controler .progress_content_loading {background-color:#FFFFFF; cursor:pointer; height:100%; margin:0; position:absolute; z-index:11;}
+#storytelling-body #stormtroopers #Slide05 .box-media .box-play .box-controler .btn-close {width:50%; height:50%; display:block; margin:24% 0 0 10%;}
+#storytelling-body #stormtroopers #Slide05 .box-media .box-play .box-controler .btn-close img {width:100%;}
+#storytelling-body #stormtroopers #Slide05 .sap-slide-column-r {background:#fff;}
+#storytelling-body #stormtroopers #Slide05 .sap-slide-column-r article {width:65%; top:16%; left:5%; position:absolute; font-family:arial;}
+#storytelling-body #stormtroopers #Slide05 .sap-slide-column-r article h1 {font-family:arial; padding:0; font-weight:bold; font-size:52px; color:#000;}
+#storytelling-body #stormtroopers #Slide05 .sap-slide-column-r article h2 {font-family:arial; font-size:52px; color:#000; font-weight:normal;}
+#storytelling-body #stormtroopers #Slide05 .sap-slide-column-r article p {font-family:arial; font-size:28px; color:#000;}
+
+#storytelling-body.ipad #stormtroopers #Slide05 .box-media img.bgr-media {margin-top:-15%;}
+#storytelling-body.ipad #stormtroopers #Slide05 .box-media {top:9%; left:36%;}
+.app .ipad #stormtroopers #Slide05 .box-media a.link-media {padding:20px 0 0 20px !important;}
+#storytelling-body.ipad #stormtroopers #Slide05 .sap-slide-column-l img {height:100% !important; width:auto !important;}
+
+#storytelling-body.iphone #stormtroopers #Slide05 .box-media .box-play {height:25%;}
+#storytelling-body.iphone #stormtroopers #Slide05 .box-media .box-play a.btn-play {padding:26%;}
+#storytelling-body.iphone #stormtroopers #Slide05 .box-media .box-play a.btn-pause {padding:30%;}
+#storytelling-body.iphone #stormtroopers #Slide05 .box-media .box-play .box-controler {left:82%;}
+#storytelling-body.iphone #stormtroopers #Slide05 .box-media .box-play .box-controler .progress_content {height:25%; margin:7px 0 0 4px;}
+#storytelling-body.iphone #stormtroopers #Slide05 .box-media img.bgr-media {margin-top:-30%; margin-bottom:20%;}
+#storytelling-body.iphone #stormtroopers #Slide05 .box-media {top:9%; left:33%; width: 14%;}
+#storytelling-body.iphone #stormtroopers #Slide05 .sap-slide-column-l img {height:100% !important; width:auto !important;}
+
+
+
+
+
+#storytelling-body.storytelling-de #stormtroopers #Slide05 .box-media {width:16%; left:30%;}
+#storytelling-body.storytelling-de.ipad #stormtroopers #Slide05 .box-media a.link-media {padding:12px 0 0 15px !important;}
+#storytelling-body.storytelling-de #stormtroopers #Slide05 .box-media a.link-media {padding:12% 0 0 12%;}
+#storytelling-body.storytelling-de #stormtroopers #Slide05 .box-media .box-play {width:25%; height:30%;}
+
+/* Slide 06 */
+#storytelling-body #stormtroopers #Slide06 video.background-video {z-index:1;}
+#storytelling-body #stormtroopers #Slide06 h1 {position:absolute; z-index:2; top:5%; left:20%; font-family:Helvetica; letter-spacing:-1px;}
+#storytelling-body #stormtroopers #Slide06 .slide06-next-slide {width:42%; position:absolute; right:11%; bottom:0; z-index:2; display:none;}
+#storytelling-body #stormtroopers #Slide06 .slide06-next-slide img {width:100%;}
+#storytelling-body #stormtroopers #Slide06 .title-container {width:18%; position:absolute; left:15%; top:10%; z-index:2; cursor:pointer;}
+#storytelling-body #stormtroopers #Slide06 .title-container img {width:100%;}
+
+/* Slide 07 */
+#storytelling-body #stormtroopers #Slide07 .sap-slide-column-l {background-color:#FFF;}
+#storytelling-body #stormtroopers #Slide07 .sap-slide-column-l article {width:69%; position:absolute; top:16%; left:23%;}
+#storytelling-body #stormtroopers #Slide07 .sap-slide-column-l h1 {font-family:Arial, Helvetica, sans-serif; color:#000;}
+#storytelling-body #stormtroopers #Slide07 .sap-slide-column-l h1 span {font-weight:bold;}
+#storytelling-body #stormtroopers #Slide07 .sap-slide-column-l p {font-family:Arial, Helvetica, sans-serif; font-size:20px; color:#000;}
+#storytelling-body #stormtroopers #Slide07 .sap-slide-column-r section {width:61.6%; position:absolute; top:45%; left:0; display:block;}
+#storytelling-body #stormtroopers #Slide07 .sap-slide-column-r video {display:block;}
+#storytelling-body #stormtroopers #Slide07 .subtitle .subtitle-content {bottom:0;}
+#storytelling-body #stormtroopers #Slide07 .player-start-button .play-icon .btn-play {width:23%; left:40%; top:32%;}
+
+#storytelling-body.ipad #stormtroopers #Slide07 .sap-slide-column-r .slide07-background {height:100%;}
+#storytelling-body.ipad #stormtroopers #Slide07 .sap-slide-column-r section {width:67.3%;}
+#storytelling-body.ipad #stormtroopers #Slide07 .sap-slide-column-r video {width:343px !important; height:193px !important;}
+
+/* Slide 08 */
+#storytelling-body #stormtroopers #Slide08 {z-index:9;}
+#storytelling-body #stormtroopers #Slide08 .slide08-background-wrapper {position:absolute;top:0;left:0;height:100%;display:block;z-index:2;width:100%; cursor:pointer;}
+#storytelling-body #stormtroopers #Slide08 .slide08-background {display:block; width:100%; z-index:1; position:absolute;}
+#storytelling-body #stormtroopers #Slide08 #slide08-content {position:absolute; z-index:2; top:28%; left:33%; width:33%; cursor:pointer;}
+#storytelling-body #stormtroopers #Slide08 #slide08-content span {display:block; margin-bottom:2%; text-align:center;}
+#storytelling-body #stormtroopers #Slide08 #slide08-content span img {width:100%;}
+#storytelling-body #stormtroopers #Slide08 #slide08-content #slide08-content-text {width:100%; display:none;}
+
+/* Slide 09 */
+#storytelling-body #stormtroopers #Slide09 {background-color:#fff;}
+#storytelling-body #stormtroopers #Slide09 .slide09-closures {width:100%; height:100%; padding-top:17%; background-color:#FFF; position:absolute; top:0; left:0;}
+#storytelling-body #stormtroopers #Slide09 .slide09-closures p {width:71.5%; padding-bottom:58px; margin:0 auto !important; line-height:140%; color:#333;}
+#storytelling-body #stormtroopers #Slide09 .closure-slide .closure p {color:#333;}
+
+
+/* STORY: SLOECENTRALE (FISH WISHPERER) */
+#storytelling-body #sloecentrale .background {width:100%; position:absolute; top:0; left:0; z-index:1;}
+#storytelling-body.ipad .background {height:100%;}
+
+#storytelling-body.iphone #sloecentrale h2 {font-family:'Siemens Slab Roman' !important; font-size:19px !important; font-weight:bold !important; padding-bottom:4px !important;}
+#storytelling-body.iphone #sloecentrale p {font-family:Arial, Helvetica, sans-serif !important; font-size:15px !important; color:#333;}
+#storytelling-body.iphone #sloecentrale strong {font-size:18px;}
+
+#storytelling-body.androidPhone #sloecentrale h2 {font-family:'Siemens Slab Roman' !important; font-size:19px !important; font-weight:bold !important; padding-bottom:4px !important;}
+#storytelling-body.androidPhone #sloecentrale p {font-family:Arial, Helvetica, sans-serif !important; font-size:15px !important; color:#333;}
+#storytelling-body.androidPhone #sloecentrale strong {font-size:18px;}
+
+/* Slide 01 */
+#storytelling-body #sloecentrale #Slide01 {background-color:#fff;}
+#storytelling-body #sloecentrale #Slide01 .slide01-about {width:25%; position:absolute; top:62%; left:17%; z-index:2;}
+#storytelling-body #sloecentrale #Slide01 .slide01-about p {font-family:arial; font-style:italic; color:#1d2935; font-size:28px;}
+#storytelling-body #sloecentrale #Slide01 .slide01-about b {font-weight:bold;}
+#storytelling-body #sloecentrale #Slide01 .slide01-text {width:29%; position:absolute; top:8%; left:52%; z-index:2; font-size:28px;}
+#storytelling-body #sloecentrale #Slide01 .slide01-text h2 {font-family:arial; color:#333; font-family:'Siemens Slab Roman'; font-weight:normal; font-size:28px;}
+#storytelling-body #sloecentrale #Slide01 .slide01-text p {font-family:arial; color:#333;}
+
+#storytelling-body.iphone #sloecentrale #Slide01 .slide01-text {width:220px; position:absolute; top:120px; right:20px;}
+#storytelling-body.androidPhone #sloecentrale #Slide01 .bg-smartphone {width:50%; height:auto;}
+#storytelling-body.androidPhone #sloecentrale #Slide01 .slide01-text {width:45%; position:absolute; top:30%; right:5%;}
+
+/* Slide 02 */
+#storytelling-body #sloecentrale #Slide02 {background-color:#fff;}
+#storytelling-body #sloecentrale #Slide02 .slide02-title {width:25%; position:absolute; /*top:62%;*/ bottom:10%; left:18%; z-index:2;}
+#storytelling-body #sloecentrale #Slide02 .slide02-title h2 {padding-bottom:9px; font-family:'Siemens Slab Roman'; font-weight:normal; color:#333;}
+#storytelling-body #sloecentrale #Slide02 .slide02-text {width:35%; position:absolute; bottom:10%; left:50%; z-index:2;}
+#storytelling-body #sloecentrale #Slide02 .slide02-text p {font-family:arial; color:#333;}
+
+#storytelling-body.iphone #sloecentrale #Slide02 .slide02-text {width:auto; padding:15px 15px 50px 15px; position:relative; bottom:auto; left:auto;}
+#storytelling-body.androidPhone #sloecentrale #Slide02 .slide02-text {width:auto; padding:15px 15px 50px 15px; position:relative; bottom:auto; left:auto;}
+
+/* Slide 03 */
+#storytelling-body #sloecentrale #Slide03 .slide03-content {width:29%; position:absolute; top:14%; left:18%; z-index:2;}
+#storytelling-body #sloecentrale #Slide03 .slide03-content h2 {font-family:'Siemens Slab Roman'; font-weight:normal;}
+#storytelling-body #sloecentrale #Slide03 .slide03-content p {font-family:arial;}
+#storytelling-body #sloecentrale #Slide03 .slide03-box {width:37%; position:absolute; top:57%; left:59%; z-index:2; padding:4% 4% 1% 4%; background:rgba(255, 255, 255, 0.55);}
+#storytelling-body #sloecentrale #Slide03 .slide03-box p {width:58%; font-family:arial; font-style:italic; color:#333;}
+
+#storytelling-body.iphone #sloecentrale #Slide03 .slide03-content {top:15px; left:15px; width:210px;}
+#storytelling-body.androidPhone #sloecentrale #Slide03 .slide03-content {top:15px; left:15px; width:210px;}
+
+/* Slide 04 */
+#storytelling-body #sloecentrale #Slide04 {background-color:#fff;}
+#storytelling-body #sloecentrale #Slide04 .slide04-content-left {width:29%; position:absolute; z-index:2; top:11%; left:18%;}
+#storytelling-body #sloecentrale #Slide04 .slide04-content-left p {font-family:arial; color:#333;}
+#storytelling-body #sloecentrale #Slide04 .slide04-content-right {width:29%; position:absolute; z-index:2; top:11%; left:53%;}
+#storytelling-body #sloecentrale #Slide04 .slide04-content-right p {font-family:arial; color:#333;}
+#storytelling-body #sloecentrale #Slide04 .slide04-box {width:25%; position:absolute; z-index:2; top:57%; left:53%;}
+#storytelling-body #sloecentrale #Slide04 .slide04-box p {font-family:arial; font-style:italic; color:#fff;}
+
+#storytelling-body.iphone #sloecentrale #Slide04 .slide04-text {width:auto; padding:15px 15px 50px 15px; position:relative; bottom:auto; left:auto;}
+#storytelling-body.androidPhone #sloecentrale #Slide04 .slide04-text {width:auto; padding:15px 15px 50px 15px; position:relative; bottom:auto; left:auto;}
+
+/* Slide 05 */
+#storytelling-body #sloecentrale #Slide05 {background-color:#fff;}
+#storytelling-body #sloecentrale #Slide05 .slide05-content-left {width:32%; position:absolute; z-index:2; top:59%; left:18%;}
+#storytelling-body #sloecentrale #Slide05 .slide05-content-left p {font-family:arial;;}
+#storytelling-body #sloecentrale #Slide05 .slide05-content-right {width:29%; position:absolute; z-index:2; top:59%; left:53%;}
+#storytelling-body #sloecentrale #Slide05 .slide05-content-right p {font-family:arial;}
+#storytelling-body #sloecentrale #Slide05 .slide05-box {width:25%; position:absolute; z-index:2; top:11%; left:18%;}
+#storytelling-body #sloecentrale #Slide05 .slide05-box p {font-family:arial; font-style:italic;}
+
+#storytelling-body.iphone #sloecentrale #Slide05 .slide05-content {position:absolute; z-index:2; bottom:0; right:0; padding:10px; width:262px; height:136px; background:rgba(45, 73, 87, 0.83);}
+#storytelling-body.iphone #sloecentrale #Slide05 .slide05-content p {color:#FFF;}
+
+#storytelling-body.androidPhone #sloecentrale #Slide05 .slide05-content {position:absolute; z-index:2; bottom:0; right:0; padding:10px; width:262px; height:136px; background:rgba(45, 73, 87, 0.83);}
+#storytelling-body.androidPhone #sloecentrale #Slide05 .slide05-content p {color:#FFF;}
+
+/* Slide 06 */
+#storytelling-body #sloecentrale #Slide06 {background-color:#fff;}
+#storytelling-body #sloecentrale #Slide06 .slide06-content1 {width:25%; position:absolute; top:15%; left:20%; z-index:2;}
+#storytelling-body #sloecentrale #Slide06 .slide06-content1 h1 {color:#333;}
+#storytelling-body #sloecentrale #Slide06 .slide06-content1 p {font-family:arial; color:#333;}
+#storytelling-body #sloecentrale #Slide06 .slide06-content2 {width:15%; position:absolute; top:15%; left:53%; z-index:2;}
+#storytelling-body #sloecentrale #Slide06 .slide06-content2 p {font-family:arial; color:#fff; font-style:italic;}
+
+#storytelling-body.iphone #sloecentrale #Slide06 h2 {width:465px; padding:15px !important; color:#fff; background:rgba(45, 73, 87, 1); font-size:18px;}
+#storytelling-body.iphone #sloecentrale #Slide06 .slide06-text {width:auto; padding:10px 15px 50px 15px; position:relative; bottom:auto; left:auto;}
+
+#storytelling-body.androidPhone #sloecentrale #Slide06 h2 {width:auto; padding:15px !important; color:#fff; background:rgba(45, 73, 87, 1); font-size:18px;}
+#storytelling-body.androidPhone #sloecentrale #Slide06 .slide06-text {width:auto; padding:10px 15px 50px 15px; position:relative; bottom:auto; left:auto;}
+
+/* Slide 07 */
+#storytelling-body #sloecentrale #Slide07 {background-color:#fff;}
+#storytelling-body #sloecentrale #Slide07 .slide07-content1 {width:20%; position:absolute; bottom:7%; left:20%; z-index:2;}
+#storytelling-body #sloecentrale #Slide07 .slide07-content1 p {font-family:arial; font-style:italic; color:#ffffff;}
+#storytelling-body #sloecentrale #Slide07 .slide07-content2 {width:27%; position:absolute; top:15%; left:53%; z-index:2;}
+#storytelling-body #sloecentrale #Slide07 .slide07-content2 p {font-family:arial; font-family:arial; color:#ffffff;}
+
+#storytelling-body.iphone #sloecentrale #Slide07 .slide07-content {position:absolute; z-index:2; bottom:0; right:0; padding:10px; width:273px; height:126px; background:rgba(45, 73, 87, 0.83);}
+#storytelling-body.iphone #sloecentrale #Slide07 .slide07-content p {color:#FFF;}
+
+#storytelling-body.androidPhone #sloecentrale #Slide07 .slide07-content {position:absolute; z-index:2; bottom:0; right:0; padding:10px; width:273px; height:126px; background:rgba(45, 73, 87, 0.83);}
+#storytelling-body.androidPhone #sloecentrale #Slide07 .slide07-content p {color:#FFF;}
+
+/* Slide 08 */
+#storytelling-body #sloecentrale #Slide08 {background-color:#fff;}
+#storytelling-body #sloecentrale #Slide08 .slide08-content1 {width:20%; position:absolute; bottom:0%; left:21%; z-index:2; background:rgba(45, 73, 87, 0.75); padding:2% 9% 6% 2%; height:22%;}
+#storytelling-body #sloecentrale #Slide08 .slide08-content1 p {font-family:arial; font-style:italic; color:#ffffff;}
+#storytelling-body #sloecentrale #Slide08 .slide08-content2 {width:25%; position:absolute; top:25%; left:53%; z-index:2;}
+#storytelling-body #sloecentrale #Slide08 .slide08-content2 p {font-family:arial; color:#333;}
+
+#storytelling-body.iphone #sloecentrale #Slide08 .slide08-text {width:auto; padding:15px 15px 50px 15px; position:relative; bottom:auto; left:auto;}
+
+#storytelling-body.androidPhone #sloecentrale #Slide08 .slide08-text {width:auto; padding:15px 15px 50px 15px; position:relative; bottom:auto; left:auto;}
+
+/* Slide 09 */
+#storytelling-body #sloecentrale #Slide09 {background-color:#fff;}
+#storytelling-body #sloecentrale #Slide09 .slide09-content1 {width:25%; position:absolute; top:10%; left:17%; z-index:2;}
+#storytelling-body #sloecentrale #Slide09 .slide09-content1 p {font-family:arial; color:#1d2935;}
+#storytelling-body #sloecentrale #Slide09 .slide09-content2 {width:29%; position:absolute; top:65%; left:53%; z-index:2;}
+#storytelling-body #sloecentrale #Slide09 .slide09-content2 p {font-family:arial; color:#333;}
+
+#storytelling-body.iphone #sloecentrale #Slide09 .slide09-content {position:absolute; z-index:2; bottom:0; left:0; padding:10px; width:291px; height:146px; background:rgba(45, 73, 87, 0.83);}
+#storytelling-body.iphone #sloecentrale #Slide09 .slide09-content p {color:#FFF;}
+
+#storytelling-body.androidPhone #sloecentrale #Slide09 .slide09-content {position:absolute; z-index:2; bottom:0; left:0; padding:10px; width:291px; height:146px; background:rgba(45, 73, 87, 0.83);}
+#storytelling-body.androidPhone #sloecentrale #Slide09 .slide09-content p {color:#FFF;}
+
+/* Slide 10 */
+#storytelling-body #sloecentrale #Slide10 {background-color:#fff;}
+#storytelling-body #sloecentrale #Slide10 p {color:#000;}
+
+#storytelling-body.iphone #sloecentrale #Slide10 .slide10-text {width:auto; padding:15px 15px 50px 15px; position:relative; bottom:auto; left:auto;}
+/* #storytelling-body.iphone #sloecentrale #Slide10 .slide10-text p {font-family:arial; font-size:15px; color:#333;} */
+
+#storytelling-body.androidPhone #sloecentrale #Slide10 .slide10-text {width:auto; padding:15px 15px 50px 15px; position:relative; bottom:auto; left:auto;}
+
+/* Slide 11 */
+#storytelling-body #sloecentrale #Slide11 {background-color:#fff;}
+#storytelling-body.iphone #sloecentrale #Slide11 .slide11-content {position:absolute; z-index:2; bottom:0; left:0; padding:10px; width:251px; height:127px; background:rgba(45, 73, 87, 0.83);}
+#storytelling-body.iphone #sloecentrale #Slide11 .slide11-content p {color:#FFF;}
+
+#storytelling-body.androidPhone #sloecentrale #Slide11 .slide11-content {position:absolute; z-index:2; bottom:0; left:0; padding:10px; width:251px; height:127px; background:rgba(45, 73, 87, 0.83);}
+#storytelling-body.androidPhone #sloecentrale #Slide11 .slide11-content p {color:#FFF;}
+
+/* Slide 12 */
+#storytelling-body #sloecentrale #Slide12 {background-color:#FFF;}
+
+#storytelling-body.iphone #sloecentrale #Slide12 h2 {width:465px; padding:15px !important; color:#fff; background:rgba(45, 73, 87, 1);}
+#storytelling-body.iphone #sloecentrale #Slide12 .slide12-text {width:auto; padding:5px 15px 50px 15px; position:relative; bottom:auto; left:auto;}
+
+#storytelling-body.androidPhone #sloecentrale #Slide12 h2 {width:auto; padding:15px !important; color:#fff; background:rgba(45, 73, 87, 1);}
+#storytelling-body.androidPhone #sloecentrale #Slide12 .slide12-text {width:auto; padding:5px 15px 50px 15px; position:relative; bottom:auto; left:auto;}
+
+/* Slide 13 */
+#storytelling-body #sloecentrale #Slide13 {background-color:#fff;}
+#storytelling-body.iphone #sloecentrale #Slide13 .slide13-content {position:absolute; z-index:2; bottom:0; left:0; padding:10px; width:286px; height:147px; background:rgba(45, 73, 87, 0.83);}
+#storytelling-body.iphone #sloecentrale #Slide13 .slide13-content p {color:#FFF;}
+
+#storytelling-body.androidPhone #sloecentrale #Slide13 .slide13-content {position:absolute; z-index:2; bottom:0; left:0; padding:10px; width:286px; height:147px; background:rgba(45, 73, 87, 0.83);}
+#storytelling-body.androidPhone #sloecentrale #Slide13 .slide13-content p {color:#FFF;}
+
+/* Slide 14 */
+#storytelling-body #sloecentrale #Slide14 {background-color:#fff;}
+#storytelling-body.iphone #sloecentrale #Slide14 h2 {width:465px; padding:15px !important; color:#fff; background:rgba(45, 73, 87, 1);}
+#storytelling-body.iphone #sloecentrale #Slide14 .slide14-text {width:auto; padding:10px 15px 50px 15px; position:relative; bottom:auto; left:auto;}
+
+#storytelling-body.androidPhone #sloecentrale #Slide14 h2 {width:auto; padding:15px !important; color:#fff; background:rgba(45, 73, 87, 1);}
+#storytelling-body.androidPhone #sloecentrale #Slide14 .slide14-text {width:auto; padding:10px 15px 50px 15px; position:relative; bottom:auto; left:auto;}
+
+/* Slide 15 */
+#storytelling-body #sloecentrale #Slide15 {background-color:#fff;}
+#storytelling-body.iphone #sloecentrale #Slide15 .slide15-content {position:absolute; z-index:2; bottom:0; left:0; padding:10px; width:286px; height:147px; background:rgba(45, 73, 87, 0.83);}
+#storytelling-body.iphone #sloecentrale #Slide15 .slide15-content p {color:#FFF;}
+
+#storytelling-body.androidPhone #sloecentrale #Slide15 .slide15-content {position:absolute; z-index:2; bottom:0; left:0; padding:10px; width:286px; height:147px; background:rgba(45, 73, 87, 0.83);}
+#storytelling-body.androidPhone #sloecentrale #Slide15 .slide15-content p {color:#FFF;}
+
+/* Slide 16 */
+#storytelling-body #sloecentrale #Slide16 {background-color:#fff;}
+#storytelling-body.iphone #sloecentrale #Slide16 .slide16-text {width:auto; padding:15px 15px 50px 15px; position:relative; bottom:auto; left:auto;}
+
+#storytelling-body.androidPhone #sloecentrale #Slide16 .slide16-text {width:auto; padding:15px 15px 50px 15px; position:relative; bottom:auto; left:auto;}
+
+/* Slide 17 */
+#storytelling-body #sloecentrale #Slide17 {background-color:#fff;}
+#storytelling-body.iphone #sloecentrale #Slide17 .slide17-content {position:absolute; z-index:2; top:15px; left:15px; width:201px; height:auto;}
+#storytelling-body.iphone #sloecentrale #Slide17 .slide17-content p {color:#FFF;}
+
+#storytelling-body.androidPhone #sloecentrale #Slide17 .slide17-content {position:absolute; z-index:2; top:15px; left:15px; width:201px; height:auto;}
+#storytelling-body.androidPhone #sloecentrale #Slide17 .slide17-content p {color:#FFF;}
+
+/* Slide 18 */
+#storytelling-body #sloecentrale #Slide18 {background-color:#fff;}
+#storytelling-body.iphone #sloecentrale #Slide18 .slide18-text {width:auto; padding:15px 15px 50px 15px; position:relative; bottom:auto; left:auto;}
+
+#storytelling-body.androidPhone #sloecentrale #Slide18 .bg-smartphone {width:100%; height:auto;}
+#storytelling-body.androidPhone #sloecentrale #Slide18 .slide18-text {width:auto; padding:15px 15px 50px 15px; position:relative; bottom:auto; left:auto;}
+
+/* Slide 19 */
+#storytelling-body #sloecentrale #Slide19 {background-color:#fff;}
+#storytelling-body #sloecentrale #Slide19 p {color:#000; font-family:'Siemens Slab Roman' !important; font-size:22px !important; margin-bottom:0;}
+
+#storytelling-body.androidPhone #sloecentrale #Slide19 .closure-link-icon img {width:100% !important;}
+
+/* STORY: STJOSEPH */
+#storytelling-body #stjoseph .background {width:100%; position:absolute; top:0; left:0; z-index:1;}
+#storytelling-body.ipad .background {height:100%;}
+
+#storytelling-body #stjoseph div,
+#storytelling-body #stjoseph p,
+#storytelling-body #stjoseph h2 {font-size:11px; line-height:160%;}
+
+/* Slide 01 */
+#storytelling-body #stjoseph #Slide01 {background-color:#000;}
+#storytelling-body #stjoseph .quote-symbol {font:italic 500px Arial, Helvetica, sans-serif; color:#ddd; position:absolute; top:-10%; left:-11%; z-index:-1;}
+
+#storytelling-body #stjoseph #Slide01 .slide01-wrapper {width:100%; position:absolute; top:0; left:0; z-index:2;}
+#storytelling-body #stjoseph #Slide01 .slide01-title {width:74%; background-color:#af235f; margin:4% 0 0 0;}
+#storytelling-body #stjoseph #Slide01 .slide01-title h2 {font:bold 75px Arial, Helvetica, sans-serif; text-transform:uppercase; padding:0; text-align:right; margin:0 21% 0 0;}
+#storytelling-body #stjoseph #Slide01 .slide01-subtitle {float:right; width:68%; background-color:#af235f; margin:0.5% 0 0 0;}
+#storytelling-body #stjoseph #Slide01 .slide01-subtitle h3 {font:bold 40px Arial, Helvetica, sans-serif; line-height:160%; text-transform:uppercase; padding:0; text-align:left; margin:0 0 0 7%; color:#fff;}
+#storytelling-body #stjoseph #Slide01 .slide01-text {width:47%; height:67%; position:absolute; top:0; right:0; z-index:1; background-color:#fff;}
+#storytelling-body #stjoseph #Slide01 .slide01-text p {color:#000; width:58%; margin:30% 0 0 3.83%; font:normal 28px Arial, Helvetica, sans-serif;}
+
+/* Slide 02 */
+#storytelling-body #stjoseph #Slide02 .slide02-title {width:107%; background-color:#aab414; margin:4% 0 0 0; position:relative; top:5.42%;}
+#storytelling-body #stjoseph #Slide02 .slide02-text h2 {font:bold 60px Arial, Helvetica, sans-serif; text-transform:uppercase; padding:0; margin:0 0 0 35%; color:#000;}
+#storytelling-body #stjoseph #Slide02 .slide02-text {width:46%; height:67%; position:absolute; top:0; left:0; z-index:1; background-color:#fff;}
+#storytelling-body #stjoseph #Slide02 .slide02-text p:first-child {font:bold 28px Arial, Helvetica, sans-serif; padding:0; margin:0; color:#000; position:absolute; top:1.8%; left:38%;}
+#storytelling-body #stjoseph #Slide02 .slide02-text .slide02-text-wrapper {position:relative; margin:8% 0 0 36%;}
+#storytelling-body #stjoseph #Slide02 .slide02-text .slide02-text-wrapper h3 {color:#999; width:84%; margin:0 0 0 2%; font:italic 28px Arial, Helvetica, sans-serif;}
+#storytelling-body #stjoseph #Slide02 .slide02-text .slide02-text-wrapper p {color:#000; width:90%; margin:7% 0 0 2%; font:normal 28px Arial, Helvetica, sans-serif;}
+
+/* Slide 03 */
+#storytelling-body #stjoseph #Slide03 p.slide03-time{font:bold 28px Arial, Helvetica, sans-serif; padding:0; margin:0; color:#fff; position:absolute; top:8%; left:17%; z-index:1;}
+#storytelling-body #stjoseph #Slide03 .slide03-box {position:relative; top:12%; left:0; width:100%; height:51%; z-index:1;}
+#storytelling-body #stjoseph #Slide03 .slide03-text {width:54%; height:100%; position:absolute; top:0; left:0; z-index:1; background-color:#505a64;}
+#storytelling-body #stjoseph #Slide03 .slide03-twrap {width:54%; background-color:#55a0b9; position:relative; z-index:2;}
+#storytelling-body #stjoseph #Slide03 .slide03-twrap h2 {font:bold 60px Arial, Helvetica, sans-serif; text-transform:uppercase; padding:0; text-align:left; color:#fff; margin-left:31.3%;}
+#storytelling-body #stjoseph #Slide03 .slide03-title {float:right; width:71%; background-color:#55a0b9; position:relative; z-index:2; margin-top:1%;}
+#storytelling-body #stjoseph #Slide03 .slide03-title h2 {font:bold 75px Arial, Helvetica, sans-serif; text-transform:uppercase; padding:0; margin:0 0 0 6%;}
+#storytelling-body #stjoseph #Slide03 .slide03-text-wrapper {margin:17.5% 0 0 32%; width:64%;}
+#storytelling-body #stjoseph #Slide03 .slide03-text-wrapper p {font:normal 28px Arial, Helvetica, sans-serif; line-height:120%;}
+
+/* Slide 04 */
+#storytelling-body #stjoseph #Slide04 .slide04-title {width:112%; background-color:#eb780a; margin:4% 0 0 0; position:absolute; top:4%;}
+#storytelling-body #stjoseph #Slide04 .slide04-text {width:56%; height:70%; position:absolute; bottom:0; left:0; z-index:1; background-color:#fff;}
+#storytelling-body #stjoseph #Slide04 .slide04-text p:first-child {font:bold 28px Arial, Helvetica, sans-serif; padding:0; margin:0; color:#000; position:absolute; top:2.5%; left:30%;}
+#storytelling-body #stjoseph #Slide04 .slide04-text h2 {font:bold 60px Arial, Helvetica, sans-serif; text-transform:uppercase; padding:0; margin:0 0 0 26.5%; color:#000;}
+#storytelling-body #stjoseph #Slide04 .slide04-text .slide04-text-wrapper {position:relative; top:21%; margin:0 0 0 30%;}
+#storytelling-body #stjoseph #Slide04 .slide04-text .slide04-text-wrapper p {color:#000; width:80%; margin:2% 0 0 0; left:0; font:normal 28px Arial, Helvetica, sans-serif;}
+
+/* Slide 05 */
+#storytelling-body #stjoseph #Slide05 .slide05-wrapper {position:relative; top:0; right:0; z-index:1; width:100%; height:100%;}
+#storytelling-body #stjoseph #Slide05 .slide05-wrapper > p:first-child {font:bold 28px Arial, Helvetica, sans-serif; padding:0; margin:0; color:#000; position:relative; top:4.5%; left:55.5%;}
+#storytelling-body #stjoseph #Slide05 .slide05-title {width:79.24%; background-color:#ffb900; margin:2.5% 0 0 0; position:relative; float:right;}
+#storytelling-body #stjoseph #Slide05 .slide05-title h2 {font:bold 75px Arial, Helvetica, sans-serif; text-transform:uppercase; padding:0; margin:0 0 0 6.39%; color:#000;}
+#storytelling-body #stjoseph #Slide05 .slide05-text {width:44.5%; height:100%; position:relative; z-index:1; float:right;}
+#storytelling-body #stjoseph #Slide05 .slide05-text .slide05-text-wrapper {position:relative; top:11%; margin:0;}
+#storytelling-body #stjoseph #Slide05 .slide05-text .slide05-text-wrapper p {color:#000; width:70%; margin:0; font:normal 28px Arial, Helvetica, sans-serif;}

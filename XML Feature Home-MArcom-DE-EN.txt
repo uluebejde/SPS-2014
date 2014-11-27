@@ -1,0 +1,51 @@
+<WCMS3Content>
+    <ContentContainer LanguageID="en">
+        <MacomArea>
+            <KeyVisual Dimension="HomepageType1WideFlash">
+                <Reference refId="0" additionalReferenceInformation="[image][resource][SharePointWebSite][https://cmsauthoring5.siemens.com/topics/global/en/events/hannover-messe/Documents/2014/webfeature/background-image-638x393.jpg][{bf8bee80-d68b-467b-a6a8-34daad903bbb}][{bb2654e5-6bbe-4eae-a509-267a7fb13d56}{82ac7c84-be16-4179-8e7c-5154ec57a960}{bf8bee80-d68b-467b-a6a8-34daad903bbb}][image/jpeg]" resolvedReference="/topics/global/en/events/hannover-messe/Documents/2014/webfeature/background-image-638x393.jpg">
+                    <reference>{bf8bee80-d68b-467b-a6a8-34daad903bbb}</reference>
+                </Reference>
+                <Flash refId="0" additionalReferenceInformation="[flash][resource][SharePointWebSite][https://cmsauthoring5.siemens.com/topics/global/en/events/hannover-messe/Documents/2014/webfeature/de/swf/mainStart.swf][{a31a099f-8fca-4d66-9dbb-7e739e48df26}][{bb2654e5-6bbe-4eae-a509-267a7fb13d56}{82ac7c84-be16-4179-8e7c-5154ec57a960}{a31a099f-8fca-4d66-9dbb-7e739e48df26}][swf]" resolvedReference="/topics/global/en/events/hannover-messe/Documents/2014/webfeature/de/swf/mainStart.swf">
+                    <reference>{a31a099f-8fca-4d66-9dbb-7e739e48df26}</reference>
+                    <Width>638</Width>
+                    <Height>392</Height>
+                    <UniqueID>hmi2014-feature-en</UniqueID>
+                    <FlashParameter>Param1=Param-Value1</FlashParameter>
+                    <FlashParameter>Param2=Param-Value2</FlashParameter>
+                    <FlashVariable>Variable1=Var-Value1</FlashVariable>
+                    <FlashVariable>Variable2=Var-Value2</FlashVariable>
+                </Flash>
+            </KeyVisual>
+            <Headline>Hannover Messe 2014</Headline>
+        </MacomArea>
+    </ContentContainer>
+</WCMS3Content>
+
+
+
+EN
+
+
+
+<WCMS3Content>
+    <ContentContainer LanguageID="en">
+        <MacomArea>
+            <KeyVisual Dimension="HomepageType1WideFlash">
+                <Reference refId="0" additionalReferenceInformation="[image][resource][SharePointWebSite][https://cmsauthoring5.siemens.com/topics/global/en/events/hannover-messe/Documents/2014/webfeature/background-image-638x393.jpg][{bf8bee80-d68b-467b-a6a8-34daad903bbb}][{bb2654e5-6bbe-4eae-a509-267a7fb13d56}{82ac7c84-be16-4179-8e7c-5154ec57a960}{bf8bee80-d68b-467b-a6a8-34daad903bbb}][image/jpeg]" resolvedReference="/topics/global/en/events/hannover-messe/Documents/2014/webfeature/background-image-638x393.jpg">
+                    <reference>{bf8bee80-d68b-467b-a6a8-34daad903bbb}</reference>
+                </Reference>
+                <Flash refId="0" additionalReferenceInformation="[flash][resource][SharePointWebSite][https://cmsauthoring5.siemens.com/topics/global/en/events/hannover-messe/Documents/2014/webfeature/en/swf/mainStart.swf][{ee6d9711-5ebd-420c-9f04-3685ac61013d}][{bb2654e5-6bbe-4eae-a509-267a7fb13d56}{82ac7c84-be16-4179-8e7c-5154ec57a960}{ee6d9711-5ebd-420c-9f04-3685ac61013d}][swf]" resolvedReference="/topics/global/en/events/hannover-messe/Documents/2014/webfeature/en/swf/mainStart.swf">
+                    <reference>{7ab262bc-7636-45fe-a728-37a003811402}</reference>
+                    <Width>638</Width>
+                    <Height>392</Height>
+                    <UniqueID>hmi2014-feature-en</UniqueID>
+                    <FlashParameter>Param1=Param-Value1</FlashParameter>
+                    <FlashParameter>Param2=Param-Value2</FlashParameter>
+                    <FlashVariable>Variable1=Var-Value1</FlashVariable>
+                    <FlashVariable>Variable2=Var-Value2</FlashVariable>
+                </Flash>
+            </KeyVisual>
+            <Headline>Hannover Messe 2014</Headline>
+        </MacomArea>
+    </ContentContainer>
+</WCMS3Content>

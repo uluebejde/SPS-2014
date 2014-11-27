@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<startURL><![CDATA[https://w3.siemens.com/topics/global/en/events/hannover-messe/Documents/2014/webfeature/de/index.html]]></startURL>
+	<closeURL><![CDATA[http://w3.siemens.com/topics/global/de/events/hannover-messe/Seiten/home.aspx]]></closeURL>
+		
+	<close><![CDATA[schließen]]></close>
+	<closeTarget>_self</closeTarget>
+	<linkSiemensLogo>http://www.siemens.com</linkSiemensLogo>
+	
+	<month_01>Januar</month_01>
+	<month_02>Februar</month_02>
+	<month_03>März</month_03>
+	<month_04>April</month_04>
+	<month_05>Mai</month_05>
+	<month_06>Juni</month_06>
+	<month_07>Juli</month_07>
+	<month_08>August</month_08>
+	<month_09>September</month_09>
+	<month_10>Oktober</month_10>
+	<month_11>November</month_11>
+	<month_12>Dezember</month_12>
+</data>

@@ -1,0 +1,52 @@
+@charset "utf-8";
+#storytelling-body .storytelling-detail-box {width:432px; background:none;}
+.storytelling-detail-box-nonscript-content {position:absolute; top:0; left:0; width:460px; padding:14px 48px 14px 15px;}
+.storytelling-detail-box-nonscript-content p {height:auto; line-height:108%; font-size:13px; letter-spacing:-0.32px;}
+.storytelling-detail-box-nonscript-background {position:absolute; z-index:0; top:0; left:0px; background-color:#354E5A; width:100%; _padding:14px 48px 14px 15px; height:200px;
+			-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)"; filter: alpha(opacity=80); -moz-opacity: 0.8; -khtml-opacity: 0.8; opacity: 0.8;}
+
+.header {height:25px;}
+.header span {line-height:108%; font-size:13px; font-weight:bold; letter-spacing:-0.32px; _letter-spacing:-1px;}
+
+#alert {position:absolute; right:0; top:238px; width:467px; padding:4px 14px 5px;}
+#alert p {position:relative; color:#FFF; line-height:18px; font-size:12px; font-weight:bold; padding:0; margin:0;}
+.alert-transparent {width:100%; height:100%; _width:478px; _height:40px; position:absolute; top:0; left:0; background-color:#000;
+			-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)"; filter: alpha(opacity=75); -moz-opacity: 0.75; -khtml-opacity: 0.75; opacity: 0.75;}
+#alert p a {background:url('../img/_nonscript/icon_link.gif') center left no-repeat; margin-left:14px; padding-left:10px;}
+
+.list-items {width:943px; height:73px; position:absolute; bottom:10px; left:44px;}
+.list-items li {width;262px; display:inline; float:left; position:relative;}
+.list-items li .photo {float:left; display:block; overflow:hidden; width:93px; height:73px;}
+.list-items li .box-info {position:absolute; left:93px; width:159px; padding:7px 10px; color:#fff;}
+.list-items li .box-info .time {float:none; line-height:100%; font-size:11px; font-weight:normal; letter-spacing:0; margin:0 0 14px; padding:0;}
+.list-items li .box-info h1 {line-height:100%; font-family:'Siemens Slab Roman'; font-size:14px; letter-spacing:-0.1px; color:#FFF;;}
+.list-items li .box-info h2 {color:#B9C307; font-size:11px; letter-spacing:0.2px; line-height:100%; white-space:nowrap; margin-top:4px !important;}
+.transparent {float:left; width:179px; height:73px; color:#fff; background-color:#2D4957;
+			-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)"; filter: alpha(opacity=80); -moz-opacity: 0.8; -khtml-opacity: 0.8; opacity: 0.8;}
+
+.social {float:right; margin-top: 1px !important;}
+.social li {float:left; color:#FFF; font-size:12px; font-weight:bold; line-height:100%;}
+.social li.info-author {width:150px;}
+.social li.visit_us {position:relative; top:8px; left:-7px;}
+.social li a {position:relative; width:21px; height:22px; display:block; cursor:pointer; margin:0 4px}
+.social li a.ico-facebook {background-position:0 0; background-image:url('../img/_nonscript/icon_facebook.png'); behavior: url(iepngfix.htc);}
+.social li a.ico-twitter {background-position:0 0; background-image:url('../img/_nonscript/icon_twitter.png'); behavior: url(iepngfix.htc);}
+.social li a.ico-douban {background-position:0 0; background-image:url('../img/_nonscript/icon_douban.png'); behavior: url(iepngfix.htc);}
+.social li a.ico-sina {background-position:0 0; background-image:url('../img/_nonscript/icon_sina.png'); behavior: url(iepngfix.htc);}
+
+>body>.social li a {width:21px;}
+.social li a.ico-facebook:hover {background:url('../img/_nonscript/icon_facebook.png') no-repeat;}
+.social li a.ico-twitter:hover {background:url('../img/_nonscript/icon_twitter.png') no-repeat;}
+.social li a.ico-douban:hover {background:url('../img/_nonscript/icon_douban.png') no-repeat;}
+.social li a.ico-sina:hover {background:url('../img/_nonscript/icon_sina.png') no-repeat;}
+.social li a .box-tooltip {display:none;}
+.social li a:hover .box-tooltip {display:block; padding:5px; position:absolute; top:-35px; background-color:#000; text-align:center;}
+.social li a:hover .bg-tooltip {width:100%; height:5px; display:block; position:absolute; top:25px; left:0; background:url('../img/_nonscript/icon_tooltip.gif') center bottom no-repeat;} 
+.social li a.ico-facebook:hover .box-tooltip {_width:72px; left:-25px;}
+.social li a.ico-twitter:hover .box-tooltip {_width:54px; left:-16px;}
+
+.social li a.ico-douban span, 
+.social li a.ico-sina span {display:none;}
+
+#storytelling-body .storytelling-detail-box .text {padding-bottom:0 !important; line-height:136% !important; margin-bottom:20px;}
+#storytelling-body .storytelling-detail-box .info {width:auto; position:relative; margin-top:7px;}

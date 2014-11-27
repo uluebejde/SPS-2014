@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<labels>
+	<label id="aboutAuthor" value="Über den Autor" />
+	<label id="aboutStory" value="Über /answers" />
+	<label id="aboutAnswers" value="Für /answers werfen renommierte Filmemacher, Journalisten und Autoren mit Video-, Bild/Text- und interaktiven Multimedia-Geschichten ihren persönlichen Blick auf Menschen, die von Siemens-Technologie profitieren." />
+	<label id="aboutCompetition" value="Über den Wettbewerb" />
+	<label id="addFavorite" value="Favorit hinzufügen" />
+	<label id="alert" value="Hinweis" />
+	<label id="answers" value="/answers &#8211;" />
+	<label id="back" value="zurück" />
+	<label id="by" value="von" />
+	<label id="cancel" value="Abbrechen" />
+	<label id="category" value="Category" />
+	<label id="close" value="schließen" />
+	<label id="contentStream" value="Weitere Geschichten" />
+	<label id="comment" value="Ihre Nachricht" />
+	<label id="singleComment" value="Kommentare" />
+	<label id="confirmCancelFavorite" value="Möchten Sie den Download des Favoriten abbrechen?" />
+	<label id="confirmDeleteFavorite" value="Diese Story wurde bereits als Favorit gespeichert.  Möchten Sie diese Story aus Ihren Favoriten löschen?" />
+	<label id="confirmSaveFavorite" value="Möchten Sie diese Story herunterladen? Ihre Favoriten sind auch im Offline-Modus verfügbar." />
+	<label id="commentLayer" value="Kommentieren" />
+	<label id="comments" value="Kommentare" />
+	<label id="commentStoryFacebook" value="Kommentar auf Facebook schreiben " />
+	<label id="commentStoryYoutube" value="Kommentar auf YouTube schreiben" />
+	<label id="commentStoryTwitter" value="/answers auf Twitter besuchen" />
+	<label id="commentVideoYoutube" value="Kommentar auf YouTube schreiben" />
+	<label id="contactSiemens" value="Siemens kontaktieren" />
+	<label id="copyCode" value="kopieren" />
+	<label id="copyURL" value="kopieren" />
+	<label id="de" value="Deutsch" />
+	<label id="deleteFavorite" value="Favorit löschen" />
+	<label id="delete" value="Löschen" />
+	<label id="download" value="Herunterladen" />
+	<label id="email" value="E-Mail" />
+	<label id="en" value="English" />
+	<label id="female" value="Frau" />
+	<label id="filmBy" value="Ein Film von" />
+	<label id="storyBy" value="Eine Story von" />
+	<label id="first" value="Erste" />
+	<label id="firstName" value="Vorname" />
+	<label id="followOurStories" value="Storys folgen" />
+	<label id="followOurStoriesOnFacebook" value="Storys auf Facebook folgen" />
+	<label id="followOurStoriesOnTwitter" value="Storys auf Twitter folgen" />
+	<label id="followOurStoriesOnYoutube" value="Storys auf Youtube folgen" />
+	<label id="formCommentSuccess" value="Vielen Dank für Ihre Nachricht." />
+	<label id="formSubscribeSuccess" value="Vielen Dank für Ihre Anmeldung" />
+	<label id="formRequiredFields" value="Pflichtfeld" />
+	<label id="from" value="from" />
+	<label id="gender" value="Anrede" />
+	<label id="getYouTubeCode" value="YouTube Einbettungscode" />
+	<label id="high" value="High" />
+	<label id="info" value="Infos, Newsletter, Kontakt" />
+	<label id="joinConversationAbout" value="Kommentieren Sie &quot;{0}&quot;" />
+	<label id="joinConversation" value="Kommentar[br]schreiben" />
+	<label id="joinConversationAndroid" value="Kommentar Schreiben" />
+	<label id="language" value="Sprache" />
+	<label id="last" value="Letzte" />
+	<label id="lastName" value="Nachname" />
+	<label id="loading" value="Loading" />
+	<label id="low" value="Low" />
+	<label id="male" value="Herr" />
+	<label id="mention" value="Kommentare" />
+	<label id="mentions" value="Kommentare" />
+	<label id="name" value="Name" />
+	<label id="newsletter" value="Newsletter" />
+	<label id="next" value="weiter" />
+	<label id="noComments" value="Noch keine Kommentare" />
+	<label id="no" value="Nein" />
+	<label id="noMentions" value="Aktuell keine Kommentare" />
+	<label id="ok" value="Ok" />
+	<label id="pause" value="Pause" />
+	<label id="play" value="Abspielen" />
+	<label id="pleaseChoose" value="Bitte wählen..." />
+	<label id="pleaseFillMarkedFields" value="Pflichtfeld" />
+	<label id="postOnTwitter" value="Geschichte twittern" />
+	<label id="postOnFacebook" value="Kommentar schreiben" />
+	<label id="previous" value="zurück" />
+	<label id="relatedInformation" value="Weiterführende Informationen" />
+	<label id="requiredField" value="Pflichtfeld" />
+	<label id="serverError" value="Sendefehler! Bitte versuchen Sie es später erneut." />
+	<label id="sendCommentFailure" value="Kommentar konnte nicht verschickt werden. Keine Internetverbindung möglich." />
+	<label id="sendNewsletterFailure" value="Newsletter konnte nicht abonniert werden. Keine Internetverbindung möglich." />
+	<label id="shareStory" value="Geschichte empfehlen" />
+	<label id="shareTitle" value="&quot;{0}&quot; weiterempfehlen" />
+	<label id="storyProvideBy" value="User generated story provided by" />
+	<label id="mail" value="Mail" />
+	<label id="facebook" value="Facebook" />
+	<label id="tooltipFavorite" value="Ihre Favoriten sind auch[br] im Offline-Modus verfügbar." />
+	<label id="twitter" value="Twitter" />
+	<label id="delicious" value="Delicious" />
+	<label id="digg" value="Digg" />
+	<label id="stumbleupon" value="Stumble upon" />
+	<label id="submit" value="Senden" />
+	<label id="subscribe" value="Abonnieren" />
+	<label id="subscribeNewsletter" value="/answers-Newsletter abonnieren" />
+	<label id="iphoneSubscribeNewsletter" value="Newsletter abonnieren" />
+	<label id="urlStory" value="URL dieser Geschichte" />
+	<label id="view" value="Start" />
+	<label id="viewTweets" value="Tweets anschauen" />
+	<label id="visitAnswersOnTwitter" value="/answers auf Twitter besuchen" />
+	<label id="visitAnswersOnFacebook" value="/answers auf Facebook besuchen" />
+	<label id="watch" value="Start" />
+	<label id="youtube" value="Youtube" />
+	<label id="yes" value="Ja" />
+	<label id="turnOnYourSpeakers" value="Ton eingeschaltet? Dann kann es losgehen." />
+	<label id="UserGeneratedStory" value="User Generated Story" />
+	<label id="videoContest" value="Video contest: 1st Place" />
+	<label id="closureMoreLinks" value="Mehr: " />
+	<label id="winningFilm" value="Winning film" />
+	<label id="months" value="Januar,Februar,März,April,Mai,Juni,Juli,August,September,Oktober,November,Dezember" />
+	<label id="tags" value="Tags" />
+	<label id="license" value="License" />
+	<label id="youtubeLicense" value="Standard Youtube License" />
+</labels>

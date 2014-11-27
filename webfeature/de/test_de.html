@@ -1,0 +1,98 @@
+<!-- CC -->
+<style>
+	#cc-general {width:987px; height:393px; position:relative;}
+	#logo {
+		z-index:10001;
+	}
+
+	.access, h6 {
+		position:absolute;
+		left:-7000px;
+	}
+	#flashcontent.hidden {display:none;}
+	#flashcontent {position:absolute; top:0; left:0; width:100%; height:100%; z-index:9998;}
+
+	body.page-type-entry div#headervisual-zone,.page-type-1 div#header-zone {
+		max-width:998px;
+		width:998px;
+	}
+	body.page-type-entry div#headervisual-zone,.page-type-entry div#headervisual-zone, body.page-type-entry div#headervisual-zone,.page-type-1 div.swap-image-container {
+		border-right:2px solid #FFFFFF;
+		height:393px;
+		width:987px;
+	}
+	/************************************************************************************************/
+	.bg_feature { 
+		width:987px;
+		height:393px;
+		background-position: left top;
+		background-repeat: no-repeat;
+		background-image:url(/topics/global/en/events/hannover-messe/Documents/2014/webfeature/de/img/bgr_de.jpg);
+	}
+	/************************************************************************************************/
+
+	a.download-flashplayer span {
+		display:none;
+	}
+
+	a.download-flashplayer {
+		height: 15px;
+		left: 600px;
+		position: absolute;
+		top: 323px;
+		width: 156px;
+	}
+
+	.headertext {
+		display:none;
+	}
+</style>
+<div id="cc-general">
+	<div id="flashcontent" class="hidden">
+		<!--SEO-->
+		<div id="noflash">
+			<p><strong></strong></p>
+		</div>
+	</div>
+	<div id="footer-position-wrapper">
+		<p id="logo">
+			<a href="http://www.siemens.com/entry/cc/en/" title="Go to www.siemens.com">
+				<strong class="access">SIEMENS</strong>
+			</a>
+		</p>
+		<div id="headervisual-zone">
+	        <div>
+				<div class="bg_feature">
+					<div id="featureLayer" title="Hannover Messe 2014">
+						<div>
+							<h1><span style="display:none;">Hannover Messe 2014</span></h1>
+							<h2><span style="display:none;">To experience the additional interactive features of this website, please enable JavaScript in your Browser and install the current Flash Player.</span></h2>
+							<a href="http://www.adobe.com/go/getflashplayer" onclick="openWindow(this.href); return false;" title="Download Flash Player" class="download-flashplayer"><span>Download Flash Player.</span></a>
+						</div>
+					</div>
+				</div>
+	        </div>
+	    </div>
+	</div>
+</div>
+<script type="text/javascript">
+
+	function initCCFeature() {
+		var HMI_LOADER_FEATURE_PATH = '/topics/global/en/events/hannover-messe/Documents/2014/webfeature/de/';
+		
+		var jsFiles = [ HMI_LOADER_FEATURE_PATH + 'feature-startscreen.js', HMI_LOADER_FEATURE_PATH + 'html5-start.js' ];
+		
+		var head = document.getElementsByTagName('head')[0];
+
+		for (var i = 0; i < jsFiles.length; i++) {
+			var script = document.createElement('script');
+			script.setAttribute('type', 'text/javascript');
+			script.setAttribute('src', jsFiles[i] + '?r=' + Math.random().toString().replace('0.', ''));
+			head.appendChild(script);
+		}
+	}
+
+	initCCFeature();
+	
+</script>
+	<!-- CC -->

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<mainMenu>
+	
+	<line height="40" color="0xFFFFFF" alpha="1">
+		<column align="left">
+			<component type="com.conradcaine.siemens.nav.mainmenu.SpacerComponent" width="41" />
+			<component type="com.conradcaine.siemens.nav.mainmenu.TitleComponent">
+				<text><![CDATA[Somewhere in America]]></text>
+				<text><![CDATA[]]></text>
+			</component>
+		</column>
+		<column align="right">
+			<component type="com.conradcaine.siemens.nav.mainmenu.ShareThisComponent">
+				<text>Share This!</text>
+			</component>
+			<component type="com.conradcaine.siemens.nav.mainmenu.SpacerComponent" width="12" />
+			<component type="com.conradcaine.siemens.nav.mainmenu.YoutubeComponent">
+				<text url="http://www.youtube.com/siemens" target="_blank">Siemens Youtube Brandchannel</text>
+			</component>
+			<component type="com.conradcaine.siemens.nav.mainmenu.SpacerComponent" width="12" />
+			<component type="com.conradcaine.siemens.nav.mainmenu.NewsletterComponent">
+				<text><![CDATA[Subscribe to <b><font color="#000000">Siemens Answers</font></b>]]></text>
+				<balloon x="83" width="90" />
+			</component>
+			<component type="com.conradcaine.siemens.nav.mainmenu.SpacerComponent" width="47" />
+		</column>
+	</line>
+	<line height="4" color="0xCCCCCC" alpha="1">
+	</line>
+	
+	<line height="24" color="0xFFFFFF" alpha="1">
+		<column align="left">
+			<component type="com.conradcaine.siemens.nav.mainmenu.SpacerComponent" width="41" />
+			<!--<component type="com.conradcaine.siemens.nav.mainmenu.FooterComponent">
+				<text url="http://www.siemens.com/" target="_self"><![CDATA[<b><font color="#000000" letterspacing="0.5"></font></b>]]></text>
+			</component>-->
+			<!--<component type="com.conradcaine.siemens.nav.mainmenu.FooterSpacerComponent" />
+			<component type="com.conradcaine.siemens.nav.mainmenu.FooterComponent">
+				<text url="http://w1.siemens.com/corp/apps/mobile/en/mobile.php" target="_self"><![CDATA[<b><font color="#000000" letterspacing="0.5"></font></b>]]></text>
+				<tooltip>Mobile Website</tooltip>
+			</component>
+			<!--<component type="com.conradcaine.siemens.nav.mainmenu.FooterSpacerComponent" />
+			<component type="com.conradcaine.siemens.nav.mainmenu.FooterComponent">
+				<text url="http://w1.siemens.com/corp/en/guide.htm" target="_self"><![CDATA[<b><font color="#000000" letterspacing="0.5">Navigation Guide</font></b>]]></text>
+				<tooltip>Navigation Guide</tooltip>
+			</component>-->
+			<!--<component type="com.conradcaine.siemens.nav.mainmenu.FooterSpacerComponent" />-->
+			<component type="com.conradcaine.siemens.nav.mainmenu.FooterComponent" over="false" icon="true">
+				<text url="http://www.usa.siemens.com/en/seo1.htm" target="_self">© Siemens Corporation 2012 - Corporate Information</text>
+				<tooltip>Corporate Copyright </tooltip>
+			</component>
+			<component type="com.conradcaine.siemens.nav.mainmenu.FooterSpacerComponent" />
+			<component type="com.conradcaine.siemens.nav.mainmenu.FooterComponent" over="false">
+				<text url="http://www.usa.siemens.com/en/footer/corporate_info.htm" target="_self">Privacy Policy</text>
+				<tooltip>Privacy Policy</tooltip>
+			</component>
+			<component type="com.conradcaine.siemens.nav.mainmenu.FooterSpacerComponent" />
+			<component type="com.conradcaine.siemens.nav.mainmenu.FooterComponent" over="false">
+				<text url="http://www.usa.siemens.com/en/footer/terms_of_use.htm" target="_self">Terms of Use</text>
+				<tooltip>Terms of Use</tooltip>
+			</component>
+			<component type="com.conradcaine.siemens.nav.mainmenu.FooterSpacerComponent" />
+			<component type="com.conradcaine.siemens.nav.mainmenu.FooterComponent" over="false">
+				<text url="http://www.usa.siemens.com/en/footer/digital_id.htm" target="_self">Digital ID</text>
+				<tooltip>Digital ID</tooltip>
+			</component>
+			<!--<component type="com.conradcaine.siemens.nav.mainmenu.FooterSpacerComponent" />
+			<component type="com.conradcaine.siemens.nav.mainmenu.DisclaimerComponent" over="false">
+				<text url="disclaimer" target="_gaia">Disclaimer</text>
+				<tooltip>Disclaimer</tooltip>
+			</component>-->
+		</column>
+	</line>
+</mainMenu>

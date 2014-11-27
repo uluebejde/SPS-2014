@@ -1,0 +1,40 @@
+<WCMS3Content>
+    <ContentContainer LanguageID="en">
+        <MacomArea>
+            <KeyVisual Dimension="HomepageType1WideFlash">
+                <AlternativeText>background-image-638x393.jpg</AlternativeText>
+                <Reference refId="0" additionalReferenceInformation="[image][resource][SharePointWebSite][https://cms5.siemens.com/topics/global/en/fairs/sps-ipc-drives/Documents/webfeature/background-image-638x393.jpg][{f06413a6-f451-438d-88d9-5f36995d8eca}][{f6dce9b7-4755-4a0b-a734-7db6ca93dc5b}{6e78b704-a4b8-4bd9-87c8-33916007c9e5}{f06413a6-f451-438d-88d9-5f36995d8eca}][image/jpeg]" resolvedReference="/topics/global/en/fairs/sps-ipc-drives/Documents/webfeature/background-image-638x393.jpg">
+                    <reference>{f06413a6-f451-438d-88d9-5f36995d8eca}</reference>
+                </Reference>
+                <Flash refId="0" additionalReferenceInformation="[flash][resource][SharePointWebSite][https://cms5.siemens.com/topics/global/en/fairs/sps-ipc-drives/Documents/webfeature/en/swf/mainStart.swf][{f9180c7e-15c6-4df3-b261-ed189022b0dc}][{f6dce9b7-4755-4a0b-a734-7db6ca93dc5b}{6e78b704-a4b8-4bd9-87c8-33916007c9e5}{f9180c7e-15c6-4df3-b261-ed189022b0dc}][swf]" resolvedReference="/topics/global/en/fairs/sps-ipc-drives/Documents/webfeature/en/swf/mainStart.swf">
+                    <reference>{f9180c7e-15c6-4df3-b261-ed189022b0dc}</reference>
+                    <Width>638</Width>
+                    <Height>392</Height>
+                    <UniqueID>hmi2014-feature-en</UniqueID>
+                    <FlashParameter>Param1=Param-Value1</FlashParameter>
+                    <FlashParameter>Param2=Param-Value2</FlashParameter>
+                    <FlashVariable>Variable1=Var-Value1</FlashVariable>
+                    <FlashVariable>Variable2=Var-Value2</FlashVariable>
+                </Flash>
+            </KeyVisual>
+            <Headline>SPS IPC Drives 2014</Headline>
+        </MacomArea>
+    </ContentContainer>
+</WCMS3Content>
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+

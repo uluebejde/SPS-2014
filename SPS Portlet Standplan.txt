@@ -1,0 +1,74 @@
+EN  
+  
+   <ThreeColumnFix>
+            <LeftColumn>
+                <CTCContentBox>
+                    <ContentData OpenCloseStateBehavior="none" Border="default" Background="default" ViewMode="default" behavior="floating" sysid="542328d7-01f4-4aa3-9f9a-4eab9c2fc830">
+                        <Headline>Booth plan</Headline>
+                        <BoxSection Separator="default">
+                            <BoxImage behavior="left" Dimension="w190 h102">
+                                <AlternativeText>standplan-sps-ipc-drives.jpg</AlternativeText>
+                                <Reference refId="0" additionalReferenceInformation="[image][resource][SharePointWebSite][https://cms5.siemens.com/topics/global/en/fairs/sps-ipc-drives/PublishingImages/2014/portlets/standplan-sps-ipc-drives.jpg][{cee0d9a5-b286-43f0-9474-35886d4f2a9b}][{f6dce9b7-4755-4a0b-a734-7db6ca93dc5b}{6e78b704-a4b8-4bd9-87c8-33916007c9e5}{cee0d9a5-b286-43f0-9474-35886d4f2a9b}][image/jpeg]" resolvedReference="/topics/global/en/fairs/sps-ipc-drives/PublishingImages/2014/portlets/standplan-sps-ipc-drives.jpg">
+                                    <reference>{cee0d9a5-b286-43f0-9474-35886d4f2a9b}</reference>
+                                </Reference>
+                                <ImageLink resolvedReference="" refId="0" additionalReferenceInformation="">
+                                    <reference></reference>
+                                </ImageLink>
+                            </BoxImage>
+                            <FormattedText>
+                                <value>Our interactive booth plan with all the important highlights that we will be presenting at SPS IPC Drives 2014 will soon be available here.</value>
+                            </FormattedText>
+                            <Link behavior="default">
+                                <TextLink>
+                                    <value>
+                                        <ln refId="0">Link</ln>
+                                    </value>
+                                    <Link resolvedReference="" refId="0" additionalReferenceInformation="">
+                                        <reference></reference>
+                                    </Link>
+                                </TextLink>
+                            </Link>
+                        </BoxSection>
+                    </ContentData>
+                </CTCContentBox>
+            </LeftColumn>
+        </ThreeColumnFix>
+
+--------
+
+DE
+
+
+   <ThreeColumnFix>
+            <LeftColumn>
+                <CTCContentBox>
+                    <ContentData OpenCloseStateBehavior="none" Border="default" Background="default" ViewMode="default" behavior="floating" sysid="881f04dc-6bd0-42b1-8c27-447bfd953a2f">
+                        <Headline>Standplan</Headline>
+                        <BoxSection Separator="default">
+                            <BoxImage behavior="left" Dimension="w190 h102">
+                                <AlternativeText>standplan-sps-ipc-drives.jpg</AlternativeText>
+                                <Reference refId="0" additionalReferenceInformation="[image][resource][SharePointWebSite][https://cms5.siemens.com/topics/global/en/fairs/sps-ipc-drives/PublishingImages/2014/portlets/standplan-sps-ipc-drives.jpg][{cee0d9a5-b286-43f0-9474-35886d4f2a9b}][{f6dce9b7-4755-4a0b-a734-7db6ca93dc5b}{6e78b704-a4b8-4bd9-87c8-33916007c9e5}{cee0d9a5-b286-43f0-9474-35886d4f2a9b}][image/jpeg]" resolvedReference="/topics/global/en/fairs/sps-ipc-drives/PublishingImages/2014/portlets/standplan-sps-ipc-drives.jpg">
+                                    <reference>{cee0d9a5-b286-43f0-9474-35886d4f2a9b}</reference>
+                                </Reference>
+                                <ImageLink resolvedReference="" refId="0" additionalReferenceInformation="">
+                                    <reference></reference>
+                                </ImageLink>
+                            </BoxImage>
+                            <FormattedText>
+                                <value>Demnächst finden Sie hier unseren interaktiven Standplan mit allen wichtigen Highlights, die wir Ihnen auf der SPS IPC Drives 2014 präsentieren werden.</value>
+                            </FormattedText>
+                            <Link behavior="default">
+                                <TextLink>
+                                    <value>
+                                        <ln refId="0">Link</ln>
+                                    </value>
+                                    <Link resolvedReference="" refId="0" additionalReferenceInformation="">
+                                        <reference></reference>
+                                    </Link>
+                                </TextLink>
+                            </Link>
+                        </BoxSection>
+                    </ContentData>
+                </CTCContentBox>
+            </LeftColumn>
+        </ThreeColumnFix>

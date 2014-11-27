@@ -1,0 +1,11 @@
+<contentList x="38" y="24">
+	<component type="ColumnComponent" space="0">
+		<component type="TextComponent" space="10">
+			<text x="0" width="900" font="SiemensSlab" size="25" letterSpacing="0" lineSpacing="0" align="left" color="0x959595"><![CDATA[_title_]]></text>
+		</component>
+		<component type="TextComponent" space="0">
+			<text x="0" width="900" font="SiemensSans" size="15" letterSpacing="0" lineSpacing="0" align="left" color="0x333333"><![CDATA[_description_]]>
+			</text>
+		</component>
+	</component>
+</contentList>

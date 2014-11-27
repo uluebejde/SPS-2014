@@ -1,0 +1,73 @@
+EN  
+  
+      <RightColumn>
+                <CTCContentBox>
+                    <ContentData OpenCloseStateBehavior="none" Border="default" Background="default" ViewMode="default" behavior="floating" sysid="204fcf7d-160a-49d8-9c95-3cfb221c021b">
+                        <Headline>Appointments</Headline>
+                        <BoxSection Separator="default">
+                            <BoxImage behavior="left" Dimension="w190 h102">
+                                <AlternativeText>terminvereinbarung-sps-ipc-drives_2.jpg</AlternativeText>
+                                <Reference refId="0" additionalReferenceInformation="[image][resource][SharePointWebSite][https://cms5.siemens.com/topics/global/en/fairs/sps-ipc-drives/PublishingImages/2014/portlets/terminvereinbarung-sps-ipc-drives_2.jpg][{79e4ca77-3317-4868-b479-d23315cfdc56}][{f6dce9b7-4755-4a0b-a734-7db6ca93dc5b}{6e78b704-a4b8-4bd9-87c8-33916007c9e5}{79e4ca77-3317-4868-b479-d23315cfdc56}][image/jpeg]" resolvedReference="/topics/global/en/fairs/sps-ipc-drives/PublishingImages/2014/portlets/terminvereinbarung-sps-ipc-drives_2.jpg">
+                                    <reference>{79e4ca77-3317-4868-b479-d23315cfdc56}</reference>
+                                </Reference>
+                                <ImageLink refId="0" additionalReferenceInformation="[posting][posting][SharePointWebSite][https://cms5.siemens.com/topics/global/en/fairs/sps-ipc-drives/appointments/Pages/appointments.aspx][{bc79ead1-1eb2-488b-8489-0b88d02c2835}][{f6dce9b7-4755-4a0b-a734-7db6ca93dc5b}{d4af37e5-a485-42a6-991a-fe6bcda05147}{bc79ead1-1eb2-488b-8489-0b88d02c2835}][WCMS3PortletPage]" resolvedReference="/topics/global/en/fairs/sps-ipc-drives/appointments/Pages/appointments.aspx">
+                                    <reference>{bc79ead1-1eb2-488b-8489-0b88d02c2835}</reference>
+                                    <Description>appointments.aspx</Description>
+                                </ImageLink>
+                            </BoxImage>
+                            <FormattedText>
+                                <value>Make an appointment for a personal consultation at the trade show! We look forward to meeting you!</value>
+                            </FormattedText>
+                            <Link behavior="default">
+                                <TextLink>
+                                    <value>
+                                        <ln refId="1">Make your appointment now</ln>
+                                    </value>
+                                    <Link refId="1" additionalReferenceInformation="[posting][posting][SharePointWebSite][https://cms5.siemens.com/topics/global/en/fairs/sps-ipc-drives/appointments/Pages/appointments.aspx][{bc79ead1-1eb2-488b-8489-0b88d02c2835}][{f6dce9b7-4755-4a0b-a734-7db6ca93dc5b}{d4af37e5-a485-42a6-991a-fe6bcda05147}{bc79ead1-1eb2-488b-8489-0b88d02c2835}][WCMS3PortletPage]" resolvedReference="/topics/global/en/fairs/sps-ipc-drives/appointments/Pages/appointments.aspx">
+                                        <reference>{bc79ead1-1eb2-488b-8489-0b88d02c2835}</reference>
+                                    </Link>
+                                </TextLink>
+                            </Link>
+                        </BoxSection>
+                    </ContentData>
+                </CTCContentBox>
+            </RightColumn>
+
+
+--------
+
+DE
+
+
+     <RightColumn>
+                <CTCContentBox>
+                    <ContentData OpenCloseStateBehavior="none" Border="default" Background="default" ViewMode="default" behavior="floating" sysid="e262113e-f382-4b41-94d3-ed2318e24edc">
+                        <Headline>Terminvereinbarung</Headline>
+                        <BoxSection Separator="default">
+                            <BoxImage behavior="left" Dimension="w190 h102">
+                                <AlternativeText>terminvereinbarung-sps-ipc-drives_2.jpg</AlternativeText>
+                                <Reference refId="0" additionalReferenceInformation="[image][resource][SharePointWebSite][https://cms5.siemens.com/topics/global/en/fairs/sps-ipc-drives/PublishingImages/2014/portlets/terminvereinbarung-sps-ipc-drives_2.jpg][{79e4ca77-3317-4868-b479-d23315cfdc56}][{f6dce9b7-4755-4a0b-a734-7db6ca93dc5b}{6e78b704-a4b8-4bd9-87c8-33916007c9e5}{79e4ca77-3317-4868-b479-d23315cfdc56}][image/jpeg]" resolvedReference="/topics/global/en/fairs/sps-ipc-drives/PublishingImages/2014/portlets/terminvereinbarung-sps-ipc-drives_2.jpg">
+                                    <reference>{79e4ca77-3317-4868-b479-d23315cfdc56}</reference>
+                                </Reference>
+                                <ImageLink refId="0" additionalReferenceInformation="[posting][posting][SharePointWebSite][https://cms5.siemens.com/topics/global/de/fairs/sps-ipc-drives/termine/Seiten/termine.aspx][{89d03b79-b14c-4a1c-8c70-029f4c14ed4b}][{f6dce9b7-4755-4a0b-a734-7db6ca93dc5b}{c4818c23-a32d-4e87-a014-48751fd240f4}{89d03b79-b14c-4a1c-8c70-029f4c14ed4b}][WCMS3PortletPage]" resolvedReference="/topics/global/de/fairs/sps-ipc-drives/termine/Seiten/termine.aspx">
+                                    <reference>{89d03b79-b14c-4a1c-8c70-029f4c14ed4b}</reference>
+                                    <Description>termine.aspx</Description>
+                                </ImageLink>
+                            </BoxImage>
+                            <FormattedText>
+                                <value>Machen Sie hier einen Termin für die Messe aus – wir freuen uns schon jetzt auf das Gespräch mit Ihnen!</value>
+                            </FormattedText>
+                            <Link behavior="default">
+                                <TextLink>
+                                    <value>
+                                        <ln refId="1">Jetzt Termin vereinbaren</ln>
+                                    </value>
+                                    <Link refId="1" additionalReferenceInformation="[posting][posting][SharePointWebSite][https://cms5.siemens.com/topics/global/de/fairs/sps-ipc-drives/termine/Seiten/termine.aspx][{89d03b79-b14c-4a1c-8c70-029f4c14ed4b}][{f6dce9b7-4755-4a0b-a734-7db6ca93dc5b}{c4818c23-a32d-4e87-a014-48751fd240f4}{89d03b79-b14c-4a1c-8c70-029f4c14ed4b}][WCMS3PortletPage]" resolvedReference="/topics/global/de/fairs/sps-ipc-drives/termine/Seiten/termine.aspx">
+                                        <reference>{89d03b79-b14c-4a1c-8c70-029f4c14ed4b}</reference>
+                                    </Link>
+                                </TextLink>
+                            </Link>
+                        </BoxSection>
+                    </ContentData>
+                </CTCContentBox>
+            </RightColumn>

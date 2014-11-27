@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <background id="industry" url="background/industry.jpg" pct="0.6"></background>
+    <background id="plexus" url="background/plexus.jpg" pct="0.2"></background>
+    <background id="energy" url="background/energy.jpg" pct="0.1"></background>
+    <background id="ic" url="background/ic.jpg" pct="0.1"></background>
+</root>

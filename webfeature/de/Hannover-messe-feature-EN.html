@@ -1,0 +1,66 @@
+
+<style>
+	.marketing{left:-584px;top:-203px;font-family:arial;position:absolute;z-index:1000;cursor:pointer;}
+</style>
+<script>
+	// element ausbelenden
+	function disableMe(id){
+		if (!isMobile()) {
+			document.getElementById(id).style.display = "none";
+		}
+	}
+	// im gleichen  Fenster oeffnen
+	function callUrl(url2Call){
+		window.location.href = url2Call;
+	}
+	// neues Fenster oeffnen
+	function openWindow(url2Open){
+		newWindow = window.open(url2Open, "Hannover Messe 2014", "");
+		newWindow.focus();
+	}
+	// hide teaser if toolbar is scrolling up
+	window.setInterval("checkToolbar()", 1500);
+	
+	function enableMe(id){
+		document.getElementById(id).style.display = "inline";
+	}	
+	function checkToolbar(){
+		var headerHeight = 0;
+		try {
+			headerHeight = (parseInt(document.getElementById('header-zone').style.height));
+			}catch(e){return;}
+		
+		if (headerHeight == null || headerHeight == 0) return;
+		
+		if (headerHeight <= 300){disableMe('werbeteaser');}
+		if (headerHeight > 300){enableMe('werbeteaser');}	
+	}
+	
+	function isMobile() {
+		var agent = window.navigator.userAgent.toString().toLowerCase();
+		if (agent.search('mobile') != -1 || agent.search('android') != -1) {
+			return true;
+		}
+		return false;
+	}
+	
+	
+	
+</script>
+<span id="werbeteaser" class="marketing" style="display:none;" onclick="openWindow('https://w3.siemens.com/topics/global/en/events/hannover-messe/Documents/2014/webfeature/en/index.html')" title="Click to open link">
+	<table width="220px">
+		<tbody><tr>
+			<td>
+			
+				<img src="https://www.industry.siemens.com/topics/global/en/fairs/sps-ipc-drives/Documents/MarcomArea2012-11/SAG_SPS_feature_sticker_en.jpg">
+			</td>
+		</tr>		
+</tbody></table>
+</span>
+
+<script>
+	if (isMobile()) {
+		enableMe('werbeteaser');
+	}
+</script>
+<head><title></title></head>

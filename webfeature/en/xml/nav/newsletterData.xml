@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<newsletterscreen>
+	<title>Newsletter</title>
+	<options>
+		<option>Subscription</option>
+		<option>Unsubscription</option>
+	</options>
+	<pages>
+		<page>
+			<email> E-mail *</email>
+			<languages label="Language *">
+				<language>English</language>
+				<language>Deutsch</language>
+			</languages>
+			<genders label="Gender *">
+				<gender>Mr.</gender>
+				<gender>Mrs.</gender>
+				<gender>Miss.</gender>
+				<gender>Ms.</gender>
+			</genders>
+			<fname> First Name *</fname>
+			<lname> Last Name *</lname>
+			<warnings>
+				<warning>* Required field</warning>
+				<warning>Thank you for subscribing to our Siemens Answers Newsletter. A confirmation E-mail has been sent to you. Please activate your subsciption by clicking on the link in this E-mail.</warning>
+				<warning>Unknow Server Error</warning>
+			</warnings>
+		</page>
+		<page>
+			<email> E-mail *</email>
+			<warnings>
+				<warning>* Required field</warning>
+				<warning>An E-mail with a confirmation link has been sent to you. Your subscription will be canceled after clicking on the link in this E-mail.</warning>
+				<warning>Unknow Server Error</warning>
+			</warnings>
+		</page>
+	</pages>
+	<sendOptions>
+		<subscribe>
+			<URL>../../../../../framework/pub/script/newsletter.php</URL>
+			<INXMAIL_SUBSCRIPTION>Siemens Journal</INXMAIL_SUBSCRIPTION>
+			<INXMAIL_ACTION>subscribe</INXMAIL_ACTION>
+			<INXMAIL_CHARSET>ISO-8859-1</INXMAIL_CHARSET>
+			<INXMAIL_HTTP_REDIRECT><![CDATA[http://www.siemens.com/about/apps/Newsletter/newsletter.php?step=subOk&lang=en]]></INXMAIL_HTTP_REDIRECT>
+			<INXMAIL_HTTP_REDIRECT_ERROR>http://www.siemens.com/about/apps/Newsletter/</INXMAIL_HTTP_REDIRECT_ERROR>
+		</subscribe>
+		<unsubscribe>
+			<INXMAIL_SUBSCRIPTION>Siemens Journal</INXMAIL_SUBSCRIPTION>
+			<INXMAIL_CHARSET>ISO-8859-1</INXMAIL_CHARSET>
+			<INXMAIL_HTTP_REDIRECT><![CDATA[http://www.siemens.com/about/apps/Newsletter/newsletter.php?step=subOk&lang=en]]></INXMAIL_HTTP_REDIRECT>
+			<INXMAIL_HTTP_REDIRECT_ERROR>http://www.siemens.com/about/apps/Newsletter/</INXMAIL_HTTP_REDIRECT_ERROR>
+			<URL>../../../../../framework/pub/script/newsletter.php</URL>
+		</unsubscribe>
+	</sendOptions>
+</newsletterscreen>

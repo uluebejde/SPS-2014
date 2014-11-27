@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="ListComponent" orientation="line" align="bottom" x="23" y="37">
+	<component type="StreamButtonComponent" contentId="stream" space="0">
+		<tooltip>Mehr Videos</tooltip>
+	</component>
+
+	<component type="PlayPauseButtonComponent" space="0">
+		<tooltipPlay>Play</tooltipPlay>
+		<tooltipPause>Pause</tooltipPause>
+	</component>
+
+	<component type="ContainerComponent" autosize="true" movieClip="BarBackground" space="0">
+		<component type="ListComponent" orientation="line" x="5" y="0">
+			<component type="ProgressBarComponent" autosize="true" space="13" />
+			<component type="TimeComponent" space="0" />
+
+			<component type="VolumeComponent" space="0" />
+
+			<component type="FullscreenButtonComponent" space="108">
+				<tooltipEnter>Fullscreen</tooltipEnter>
+				<tooltipExit>Fullscreen schließen</tooltipExit>
+			</component>
+
+			<component type="ResolutionComponent" space="0">
+				<component type="ResolutionRadioItemComponent" space="0">
+					<label>720p (HD)</label>
+					<quality>hd720</quality>
+				</component>
+
+				<component type="ResolutionRadioItemComponent" selected="true" space="0">
+					<label>480p</label>
+					<quality>large</quality>
+				</component>
+			</component>
+
+		</component>
+	</component>
+
+</component>

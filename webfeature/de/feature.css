@@ -1,0 +1,57 @@
+div#ng_feature {
+	position:absolute;
+	z-index:299;
+	width:987px;
+	height:393px;
+	overflow:hidden;
+	min-height: 600px;
+}
+
+
+body.page-type-entry div#headervisual-zone,.page-type-1 div#header-zone {
+	max-width:998px;
+	width:998px;
+}
+body.page-type-entry div#headervisual-zone,.page-type-entry div#headervisual-zone, body.page-type-entry div#headervisual-zone,.page-type-1 div.swap-image-container {
+	border-right:2px solid #FFFFFF;
+	height:393px;
+	width:987px;
+}
+/************************************************************************************************/
+.bg_feature { 
+	width:987px;
+	height:393px;
+	background-position: left top;
+	background-repeat: no-repeat;
+	background-image:url(../../wcms3/de/img/bgr_de.jpg);
+}
+/************************************************************************************************/
+a.link-1 span,
+a.link-2 span,
+a.download-flashplayer span {
+	display:none;
+}
+ 
+a.link-1 {
+height:18px;
+left:544px;
+position:absolute;
+top:221px;
+width:168px;
+} 
+
+a.link-2 {
+height:18px;
+left:544px;
+position:absolute;
+top:246px;
+width:125px;
+}
+
+a.download-flashplayer {
+height: 15px;
+left: 603px;
+position: absolute;
+top: 325px;
+width: 196px;
+}

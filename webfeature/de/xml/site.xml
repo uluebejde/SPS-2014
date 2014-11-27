@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site title="Siemens" preloader="../../swf/preload.swf">
+	<page id="index" src="../../swf/index.swf">
+		<asset id="sharedText" 		src="../xml/sharedText/SharedText.xml" 		preload="true" />
+		
+		<asset id="playlist" src="http://gdata.youtube.com/feeds/api/playlists/PLw7lLwXw4H52pSC2kBYWEuKc8a09nwM5o?v=2" type="xml" 	preload="true" />
+		
+		<page id="video" src="../../swf/mediaContainer.swf" title="clean-energy" storyid="1">
+			<asset id="YTplayer" src="http://www.youtube.com/apiplayer?version=3" preload="true" type="movieclip" />
+			<asset id="componentList" 	src="../xml/videos/videoComponentList.xml" 		preload="true" />
+			<asset id="info" 			src="../xml/videos/info_contentList.xml"		preload="true" />
+		</page>
+	</page>
+</site>

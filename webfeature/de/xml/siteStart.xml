@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site title="Siemens" preloader="../../swf/preload.swf">
+	<page id="index" src="../../swf/index.swf">
+		<asset id="sharedText" 		src="../xml/sharedText/SharedText.xml" 		preload="true" />
+		
+		<asset id="playlist" src="http://gdata.youtube.com/feeds/api/playlists/PLw7lLwXw4H52pSC2kBYWEuKc8a09nwM5o?v=2" type="xml" 	preload="true" />
+		
+		<page id="startScreen" src="../../swf/startScreen.swf" landing="true" title="startScreen">
+			<asset id="background_0" 		src="../../img/startscreen/background_0.jpg" 			preload="true" />
+			<asset id="background_1" 		src="../../img/startscreen/background_1.jpg" 			preload="true" />
+			<asset id="background_2" 		src="../../img/startscreen/background_2.jpg" 			preload="true" />
+			<asset id="background_3" 		src="../../img/startscreen/background_3.jpg" 			preload="true" />									
+			<asset id="contentList" 		src="../xml/startscreen/contentList.xml" 			preload="true" />
+			
+			<page id="disclaimer" src="../../swf/contentModalWindow.swf" title="Disclaimer" depth="top">
+				<asset id="contentList" src="../xml/nav/disclaimer.xml" preload="true" />
+			</page>
+		</page>
+		
+	</page>
+</site>

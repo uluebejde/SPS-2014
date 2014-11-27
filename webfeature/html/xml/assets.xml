@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assets>
+	<asset story="experientialvision" id="experientialvisionEntryPage" src="stories/experientialvision/img/entrypageimg01_marco.jpg" />
+	<asset story="experientialvision" id="experientialvisionAuthor" src="stories/experientialvision/img/ft_author.jpg" />
+	<asset story="experientialvision" id="experientialvisionThumb" src="stories/experientialvision/img/story_thumb.jpg" />
+	<asset story="hybridbusseslondon" id="hybridbusseslondonThumb" src="stories/hybridbusseslondon/img/teaserpic_stream2.png" />
+	<asset id="thumb1" src="img/thumb1.jpg" preload="true" />
+	<asset id="thumb2" src="img/thumb2.jpg" preload="true" />
+	<asset id="thumb3" src="img/thumb3.jpg" preload="true" />
+	<asset id="thumb4" src="img/thumb4.jpg" preload="true" />
+	<asset id="image1" src="img/image1.jpg" />
+	<asset id="image2" src="img/image2.jpg" />
+	<asset id="poster1" src="img/poster.jpg" />
+	<asset id="gallery1" src="img/slide1.jpg" />
+	<asset id="slide1" src="img/thumb_slide.jpg" />
+	<asset story="experientialvision" id="experientialvisionSlide01Img01" src="stories/experientialvision/img/slide01img01.jpg" />
+	<asset story="experientialvision" id="experientialvisionSlide01Img02" src="stories/experientialvision/img/slide01img02.jpg" />
+	<asset story="experientialvision" id="experientialvisionSlide01Img03" src="stories/experientialvision/img/slide01img03.jpg" />
+	<asset story="experientialvision" id="experientialvisionBgSlide02" src="stories/experientialvision/img/slide02img01_geshe.jpg" />
+	<asset story="experientialvision" id="experientialvisionBgSlide03" src="stories/experientialvision/img/slide03img01_car.jpg" />
+	<asset story="experientialvision" id="experientialvisionSlide04Background" src="stories/experientialvision/img/slide04img01_car.jpg" />
+	<asset story="experientialvision" id="experientialvisionSlide04Poster" src="stories/experientialvision/img/slide04_poster.jpg" />
+	<asset story="experientialvision" id="experientialvisionSlide04Route" src="stories/experientialvision/img/slide04_route.png" />
+	<asset story="experientialvision" id="experientialvisionBgSlide05" src="stories/experientialvision/img/slide05img01_viola.jpg" />
+	<asset story="experientialvision" id="experientialvisionSlide06Background" src="stories/experientialvision/img/slide06img01background.jpg" />
+	<asset story="experientialvision" id="experientialvisionSlide06Background2" src="stories/experientialvision/img/slide06img02background.png" />
+	<asset story="experientialvision" id="experientialvisionSlide07Background" src="stories/experientialvision/img/slide07img01background.jpg" />
+	<asset story="experientialvision" id="experientialvisionSlide07Background2" src="stories/experientialvision/img/slide07img02background.png" />
+	<asset story="experientialvision" id="experientialvisionSlide07ButtonLeft" src="stories/experientialvision/img/slide07_btn_left.png" />
+	<asset story="experientialvision" id="experientialvisionSlide07ButtonRight" src="stories/experientialvision/img/slide07_btn_right.png" />
+	<asset story="experientialvision" id="experientialvisionBgSlide08" src="stories/experientialvision/img/slide08img01background.jpg" />
+	<asset story="experientialvision" id="experientialvisionSlide09Background" src="stories/experientialvision/img/slide9img01_abstract_zoom.jpg" />
+	<asset story="experientialvision" id="experientialvisionSlide09Poster" src="stories/experientialvision/img/slide09_poster.jpg" />
+	<asset story="experientialvision" id="experientialvisionBgSlide10" src="stories/experientialvision/img/slide10img01_marco.jpg" />
+	<asset story="experientialvision" id="experientialvisionSlide11Background" src="stories/experientialvision/img/slide11img01background.jpg" />
+	<asset story="experientialvision" id="experientialvisionSlide11Poster" src="stories/experientialvision/img/slide11_poster.jpg" />
+	<asset story="experientialvision" id="experientialvisionBgSlide12" src="stories/experientialvision/img/slide12img01_albersloher_weg.jpg" />
+	<asset story="experientialvision" id="experientialvisionSlide13Background" src="stories/experientialvision/img/slide13img01background.jpg" />
+	
+	<asset story="licensetoboard" id="licensetoboardThumb" src="stories/licensetoboard/img/licensetoboard_thumb.jpg" preload="true" />
+	<asset story="licensetoboard" id="licensetoboardTeaser" src="stories/licensetoboard/img/licensetoboard_teaser.jpg" />
+	<asset story="licensetoboard" id="licensetoboardAuthor" src="stories/licensetoboard/img/ft_author.jpg" preload="true" />
+	
+	<asset story="orchidfarm" id="orchidfarmThumb" src="stories/orchidfarm/img/orchidfarm_thumb.jpg" preload="true" />
+	<asset story="orchidfarm" id="orchidfarmTeaser" src="stories/orchidfarm/img/orchidfarm_teaser.jpg" />
+	<asset story="orchidfarm" id="orchidfarmAuthor" src="stories/orchidfarm/img/ft_author.jpg" preload="true" />
+</assets>

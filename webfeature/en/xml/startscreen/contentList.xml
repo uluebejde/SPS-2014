@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contentList x="46" y="227">
+
+	<component type="DrawRectComponent" space="0">
+		<draw x="0" y="0" width="406" height="143" color="0x4F5963" alpha="0.85" />
+
+		<component type="ColumnComponent" x="0" y="0">
+			<component type="TextComponent" space="-1">
+				<text x="9" y="10" width="370" font="SiemensSlab" size="12" letterSpacing="-0.3" lineSpacing="0" align="left" color="0xFFFFFF">Last Update - _month_ _day_, _year_</text>
+			</component>
+			<component type="TextComponent" space="7">
+				<text x="11" width="370" font="SiemensSlab" size="28" letterSpacing="-0.7" lineSpacing="0" align="left" color="0xFFFFFF">_title_</text>
+			</component>
+			<component type="TextComponent" space="0">
+				<text x="12" width="370" font="Arial" size="13" letterSpacing="-0.2" lineSpacing="3" align="left" color="0xFFFFFF">_subtitle_</text>
+			</component>
+
+
+			<component type="TextComponent" space="6">
+				<text x="11" y="-1" width="210" font="Arial" size="12" letterSpacing="-0.4" lineSpacing="0" align="left" color="0xFFFFFF" overColor="0xFFFFFF" thickness="-50" sharpness="50">Watch our videos</text>
+			</component>
+
+		</component>
+
+	</component>
+
+</contentList>
